@@ -1,1 +1,1 @@
-city : batticaloa
+city : colombo
